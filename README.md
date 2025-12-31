@@ -1,10 +1,15 @@
-# Hi 👋 I'm Mohamed Ashik Akthar
+# Hi 👋 I'm Mohamed Ashik Akthar 
 
-🎓 MSc Statistics Graduate | 📊 Aspiring Data Scientist | 🐍 Python Developer  
+🎓 MSc Statistics Graduate | 📊 Aspiring Data Scientist | 🐍 Python Developer                                   
 📍 Dharmapuri, Tamil Nadu, India  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamedashikakthar7)
 
+                                                                                                                       
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science Animation" width="600"/>
+</p>
+                                                                                                                    
 ---
 
 ## 👨‍💻 About Me
@@ -117,3 +122,6 @@ I am highly motivated to build a career in data science and contribute to **data
 ## ⚡ Fun Fact
 
 I enjoy transforming complex datasets into meaningful insights 📊✨
+
+
+
